@@ -3,7 +3,4 @@ def using_until
   until 6 > 10 do
     puts 'Wingardium Leviosa'
   end
-
-
-
 end
